@@ -7,5 +7,14 @@
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185ff)
+![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
+![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
+![CharlesProxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=163760)
+![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 
 Social media

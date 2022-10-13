@@ -18,6 +18,6 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 
 ### Social media
-![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anastasia-zhishkevich/)
-![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Zhshkvch)
-![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=ea4033)](anastasia.zhishkevich@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anastasia-zhishkevich/)
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Zhshkvch)
+[![Gmail](https://img.shields.io/badge/Gmail-090909?style=for-the-badge&logo=gmail&logoColor=ea4033)](anastasia.zhishkevich@gmail.com)

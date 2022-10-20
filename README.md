@@ -1,4 +1,4 @@
-![Header](https://github.com/zhshkvch/zhshkvch/blob/main/assets/Header.jpg)
+![Header](https://github.com/AnastasiaZhishkevich/AnastasiaZhishkevich/blob/25347cda89dfa3ad98b17da8288e6fef79740913/assets/header.png)
 
 ## QA Engineer
 

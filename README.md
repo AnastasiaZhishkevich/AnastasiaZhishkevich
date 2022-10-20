@@ -3,10 +3,11 @@
 ## QA Engineer
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1MFr5sbAY5gAXUb4YtNDnaPDlIIpQKHBd/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1DKEoPdBDZfzoFiW1eDGYQwRSiavXTfUz/view?usp=sharing)
 
-### Testing Documentation
-[SQL](https://github.com/zhshkvch/SQL.git)
+### Portfolio
+[SQL](https://github.com/AnastasiaZhishkevich/SQL.git)
+[Postman](https://github.com/AnastasiaZhishkevich/Postman.git)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185ff)
@@ -20,6 +21,6 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-090909?style=for-the-badge&logo=virtualbox&logoColor=163760)
 ![Jenkins](https://img.shields.io/badge/Jenkins-090909?style=for-the-badge&logo=jenkins&logoColor=f7f7f7)
 
-### Social Media
+### Contacts
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/anastasia-zhishkevich/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Zhshkvch)

@@ -6,8 +6,8 @@
 [Link to my CV](https://drive.google.com/file/d/1DKEoPdBDZfzoFiW1eDGYQwRSiavXTfUz/view?usp=sharing)
 
 ### Portfolio
-[SQL](https://github.com/AnastasiaZhishkevich/SQL.git)
-[Postman](https://github.com/AnastasiaZhishkevich/Postman.git)
+- [SQL](https://github.com/AnastasiaZhishkevich/SQL.git)
+- [Postman](https://github.com/AnastasiaZhishkevich/Postman.git)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185ff)

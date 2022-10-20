@@ -3,7 +3,7 @@
 ## QA Engineer
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1DKEoPdBDZfzoFiW1eDGYQwRSiavXTfUz/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1OSK_QDV3SELTkZETxQgckIyRuWUuaLlu/view?usp=sharing)
 
 ### Portfolio
 - [SQL](https://github.com/AnastasiaZhishkevich/SQL.git)

@@ -8,6 +8,7 @@
 ### Portfolio
 - [SQL](https://github.com/AnastasiaZhishkevich/SQL.git)
 - [Postman](https://github.com/AnastasiaZhishkevich/Postman.git)
+- [Test-cases](https://github.com/AnastasiaZhishkevich/Test-cases)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=2185ff)
